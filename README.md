@@ -113,3 +113,4 @@ ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-cli.ts 
 ### We are done!!
 
 You can now start the NextJs app by running `yarn dev` and navigating to `http://localhost:3000/`, connect your desired wallet and begin minting your new NFTs.
+# ruffnft
